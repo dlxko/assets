@@ -1,5 +1,5 @@
 {
-	"name": "h4kuna/assets",
+	"name": "webmasterapp/assets",
 	"type": "library",
 	"description": "Support mtime for assets on development machine.",
 	"homepage": "https://github.com/h4kuna/assets",
@@ -9,13 +9,18 @@
 			"name": "Milan Matějček",
 			"email": "milan.matejcek@gmail.com",
 			"role": "Developer"
+		},
+		{
+			"name": "Martin Pavelka",
+			"email": "martin.pavelka@icloud.com",
+			"role": "Maintainer"
 		}
 	],
 	"require": {
 		"latte/latte": "~2.0",
 		"nette/application": "~2.0",
 		"nette/bootstrap": "~2.0",
-		"nette/utils": "~2.0"
+		"nette/utils": "~3.0"
 	},
 	"autoload": {
 		"psr-4": {
